@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "840fbea8-6785-4189-92a9-047b72840c78": {
+      "ProjectGuid": "840fbea8-6785-4189-92a9-047b72840c78",
+      "DisplayName": "RestaurantAPI2",
+      "ColorIndex": 0
+    },
+    "419642aa-da92-4ebb-8b49-fde7fd423ddf": {
+      "ProjectGuid": "419642aa-da92-4ebb-8b49-fde7fd423ddf",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
