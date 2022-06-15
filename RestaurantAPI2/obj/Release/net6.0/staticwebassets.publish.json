@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "C18DUY9ygtPgwQcWduNpl/95euc+hW3g9KiRj2NCyNs=",
+  "Source": "RestaurantAPI2",
+  "BasePath": "_content/RestaurantAPI2",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestaurantAPI2\\wwwroot",
+      "Source": "RestaurantAPI2",
+      "ContentRoot": "C:\\Users\\wombo\\source\\repos\\RestaurantAPI2\\RestaurantAPI2\\wwwroot\\",
+      "BasePath": "_content/RestaurantAPI2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wombo\\source\\repos\\RestaurantAPI2\\RestaurantAPI2\\wwwroot\\samplefile.txt",
+      "SourceId": "RestaurantAPI2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wombo\\source\\repos\\RestaurantAPI2\\RestaurantAPI2\\wwwroot\\",
+      "BasePath": "_content/RestaurantAPI2",
+      "RelativePath": "samplefile.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\samplefile.txt"
+    }
+  ]
+}
