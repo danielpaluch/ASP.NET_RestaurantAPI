@@ -39,7 +39,7 @@ builder.Services.AddAuthentication(option =>
     };
 });
 
-builder.Services.AddControllers().AddFluentValidation()
+builder.Services.AddControllers().AddFluentValidation();
 builder.Services.AddDbContext<RestaurantDbContext>();
 builder.Services.AddScoped<RestaurantSeeder>();
 builder.Services.AddAutoMapper(typeof(Program).Assembly);
